@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "webpack.config.ts",
+    "playwright.config.ts",
+    "src",
+    "visual-tests",
+    ".eslintrc.js"
+  ]
+}
